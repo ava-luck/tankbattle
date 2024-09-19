@@ -1,0 +1,17 @@
+left=image/tank/play1/player1_left.png
+right=image/tank/play1/player1_right.png
+down=image/tank/play1/player1_down.png
+up=image/tank/play1/player1_up.png
+BRICK=image/wall/brick.png
+GRASS=image/wall/grass.png
+IRON=image/wall/iron.png
+RIVER=image/wall/river.png
+BASE=image/wall/base.png
+BREAK_BASE=image/wall/break_base.png
+bot_down=image/tank/bot/bot_down.png
+bot_left=image/tank/bot/bot_left.png
+bot_right=image/tank/bot/bot_right.png
+bot_up=image/tank/bot/bot_up.png
+boom=image/boom/boom.png
+01=image/tool/01.png
+02=image/tool/02.png
